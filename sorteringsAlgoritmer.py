@@ -11,15 +11,13 @@ def insertionSort(case):
                 #skal der tilføjes +1 casen [j]
 
             else:
+                #Ellers
                 j+=1
+                #skal casen [j] tilføjes 1 til current nummer
                 break
             case[j]=curNum
 
 
-
-
-#ellers
-#skal casen [j] tilføjes 1 til current nummer
 
 
 list1 = ['b','j','q','d','k','d','y','x','b','n','m','u','l','a','w','q','e','m']
