@@ -15,7 +15,7 @@ def insertionSort(case):
                 #skal casen [j]+1 = current nummer
                 break
 
-list1 = ['b','j,'q','d','k','d','y','x','b','n','m','u','l','a','w','q','e','m']
+list1 = ['b','j','q','d','k','d','y','x','b','n','m','u','l','a','w','q','e','m']
 #Her laver jeg en liste til test af kode
 insertionSort(list1)
 #Her siger jeg at InseritonSort skal bruge (list1)
